@@ -1,0 +1,127 @@
+
+No Resumo: a metodologia descrita como "experiência prática e a observação vivenciada dos próprios desenvolvedores..."
+
+Assim ficaria melhor:
+"A metodologia adotada para a concepção do software teve como base uma pesquisa exploratória, complementada pela observação participante dos próprios desenvolvedores. Familiarizados com os desafios da mobilidade intermunicipal, eles puderam identificar de forma empírica e direta as reais necessidades do mercado."
+
+Viabilidade e Metodologia:
+A Figura 2 está com baixa resolução e é praticamente ilegível. É fundamental substituí-la por uma imagem em alta qualidade. Além disso, o texto deveria descrever brevemente o processo que está sendo modelado no diagrama, explicando as raias (Cliente, Sistema, Empresa) e o fluxo principal, para que o leitor compreenda o que a imagem representa sem esforço.
+
+Desenvolvimento e Requisitos:
+Elicitação de Requisitos: O texto menciona que a elicitação foi "empírica e prática". Recomendo que detalhem um pouco mais esse processo. Eles realizaram "entrevistas informais"? Com quantos usuários ou motoristas? Documentar isso, mesmo que de forma breve, fortalece a seção.
+
+Apresentação dos Requisitos: A apresentação dos requisitos em quadros ficou legal, no entanto, o trabalho apresenta apenas um exemplo de cada tipo (RF, RNF e RN). Seria interessante apresentar uma pequena lista (3 a 5 itens) dos requisitos mais importantes de cada categoria para dar uma visão mais completa do escopo do sistema.
+
+
+Correções de Normas ABNT e Formatação:
+
+Termos em Inglês: Diversos termos em inglês não estão em itálico. É preciso revisar o texto completo e aplicar o itálico. Exemplos encontrados: 
+
+backend , 
+
+open source , MVP (a sigla pode ficar sem itálico, mas o termo por extenso, 
+
+Mínimo Produto Viável, quando aparecer, deve ter a parte em inglês em itálico, o que não é o caso aqui, mas vale a atenção) , 
+
+Hypertext Transfer Protocol , 
+
+Message Queuing Telemetry Transport , 
+
+Publicar/Assinar (Pub/Sub) , 
+
+Broker , 
+
+Publishers , 
+
+Subscribers.
+
+
+
+Citações no texto (autor-data) e itálico para termos em língua estrangeira
+Há inconsistências nas citações e grafia de autores (ex.: “Osterwalder, Pigncur.2011, p. 15” → erro de sobrenome, formatação e pontuação). A NBR 10520:2023 atualizada padroniza as citações e autoriza/indica o uso de itálico para expressões estrangeiras (ex.: Business Model Canvas, Business Process Model and Notation, broker, publisher/subscriber). 
+
+
+Referências: padronização e fontes
+A lista mistura livros com links não oficiais (p. ex., Scribd) e URL encurtada (“tinyurl”) para figura — prático, mas não recomendável em referências/legendas. A NBR 6023 foi emendada em 2025, mantendo a base 2018; use Disponível em: URL completa. Acesso em: dd mmm. aaaa. Evite encurtadores e páginas traduzidas por terceiros. 
+
+
+Legendas e fontes de figuras/quadros
+Ex.: “Figura 3 – Modelo cliente-servidor… Fonte: https://tinyurl.com/…”
+. A NBR 14724 (2024) requer legenda padronizada (Figura X — Título) e fonte completa (“Fonte: Autor, ano” ou “Fonte: Adaptado de …, ano, URL completa”), posicionadas uniformemente. 
+
+Resumo
+Está adequado em extensão e termos, mas chequem: voz impessoal, terceira pessoa e palavras-chave separadas por ponto-e-vírgula e ponto final após a última (conforme 6028:2021). 
+
+LGPD / Ética
+O aplicativo trata geolocalização (dado pessoal). Insiram seção de conformidade à LGPD: base legal, finalidade, minimização, retenção, segurança, direitos do titular, DPO/encarregado e eventuais mecanismos de consentimento. 
+
+
+Regulação setorial
+Ao citar validações (ARTESP/ANTT), indiquem o escopo regulatório: ARTESP para intermunicipal em SP; ANTT para interestadual (e portais operacionais, p.ex. SisHAB/MONITRIIP)
+
+
+Problemas de linguagem e coerência:
+Erro de grafia do autor: “Osterwalder, Pigncur.2011” → Osterwalder; Pigneur (2011, p. 15).
+
+Repetição/pleonasmo: “documento de padrões documento” (em BPMN) → “documento de padrões”.
+
+Português técnico: padronizar “aplicativo móvel” (evite “mobile” no corpo do texto) e manter termos estrangeiros em itálico quando indispensáveis (benchmarking, MVP, backend).
+
+Coesão: “Figura 04” e “Figura 1” aparecem com padrões distintos; use Figura 1, Figura 2… (sem zero à esquerda) e cite a figura no texto antes de apresentá-la.
+
+Observação: como regra, adotem voz impessoal, período claro e conciso, evitem “achismos” (“observação vivenciada”) sem método explícito, e mantenham consistência terminológica.
+
+
+Figuras, quadros e tabelas: REMOVER OS QUADROS ENVOLTA DAS FIGURAS
+
+
+Fonte da Imagem: A fonte da Figura 3  está como um link "tinyurl". É preferível usar o link original ou, se a imagem foi adaptada, indicar "Fonte: Adaptado de..." seguido da referência completa.
+
+Legendas: Segundo a ABNT, a legenda (título) fica na parte superior da figura/quadro/tabela, e a fonte na parte inferior. O formato apresentado está correto.
+
+
+Legenda abaixo do elemento: Figura 2 — Diagrama BPMN do processo de embarque.
+
+Fonte: “Fonte: Produção própria, 2025.” ou “Fonte: Adaptado de WESKE (2012).” Se usar web, URL completa, sem encurtador.
+
+
+Referências: A lista de referências precisa de ajustes para seguir a norma ABNT NBR 6023.
+
+(lembrando que precisam estar em ordem alfabética pela primeira letra)
+veja as modificações corretas que eu fiz em algumas e depois de corrigirem, coloquem em ordem alfabética:
+
+
+LAUDON, Kenneth C.; LAUDON, Jane P. Sistemas de informação gerenciais. 7. ed. São Paulo: Pearson Prentice Hall, 2007.
+(Se usarem versão online, mantenham os dados editoriais e acrescentem: Disponível em: URL completa. Acesso em: 21 set. 2025.) 
+
+
+OSTERWALDER, Alexander; PIGNEUR, Yves. Business model generation: inovação em modelos de negócios. Rio de Janeiro: Alta Books, 2011. Disponível em: https://sistemabu.udesc.br/pergamumweb/vinculos/000079/000079a1.pdf. Acesso em: 21 set. 2025. 
+
+
+SOMMERVILLE, Ian. Engenharia de software. 9. ed. São Paulo: Pearson, 2011. Disponível em: https://www.facom.ufu.br/~william/…/engenhariaSoftwareSommerville.pdf. Acesso em: 21 set. 2025. 
+
+
+WESKE, Mathias. Business process management: concepts, languages, architectures. 2. ed. Berlin: Springer, 2012. DOI: 10.1007/978-3-642-28616-2. 
+
+
+IETF. HTTP Semantics (RFC 9110). 2022. Disponível em: https://www.rfc-editor.org/info/rfc9110. Acesso em: 21 set. 2025. 
+
+
+OASIS. MQTT Version 5.0 — OASIS Standard. 2019. Disponível em: https://docs.oasis-open.org/mqtt/mqtt/v5.0/mqtt-v5.0.pdf. Acesso em: 21 set. 2025. 
+
+
+RED HAT. O que é open source? 2025. Disponível em: https://www.redhat.com/pt-br/topics/open-source/what-is-open-source. Acesso em: 21 set. 2025. (mantido; é página institucional)
+
+BRASIL. Lei nº 13.709, de 14 de agosto de 2018 (LGPD). Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm. Acesso em: 21 set. 2025. 
+
+
+GOVERNO DO ESTADO DE SÃO PAULO. ARTESP — Funções e competências. Disponível em: https://www.sp.gov.br/sp/institucional/estrutura/autarquias/artesp. Acesso em: 21 set. 2025. 
+
+
+GOVERNO FEDERAL. ANTT — Passageiros (Transporte interestadual regular). Disponível em: https://www.gov.br/antt/pt-br/assuntos/passageiros/transportepassageirosregular. Acesso em: 21 set. 2025. 
+
+
+Observações de forma (NBR 6023 e Emenda 2025):
+• Use URL completa, evite encurtadores/traduções automáticas;
+• Inclua “Disponível em:” e “Acesso em:” para conteúdos online;
+• Mantenha capitalização de títulos conforme a língua do documento.
