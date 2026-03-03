@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<homebank v="1.1000000000000001">
+<properties title="Desconhecido" auto_smode="1" auto_weekday="1" />
+<account key="1" pos="1" type="1" name="Debito Picpay" number="Banco 380 |  Ag. 0001 |  Cc.27799557-4" bankname="Picpay " initial="2.02" minimum="0" />
+<account key="2" pos="2" type="1" name="Debito Mercado Pago" bankname="Mercado Livre" initial="2.3999999999999999" minimum="0" />
+<account key="3" pos="3" type="5" name="Cofrinho Emergencia" number="001" bankname="Mercado Pago" initial="78.799999999999997" minimum="0" />
+<account key="4" pos="4" type="5" name="Cofrinho Contas Basicas" number="002" bankname="Mercado Pago " initial="18.300000000000001" minimum="0" />
+<account key="5" pos="5" type="3" name="Cofrinho Economizar" number="003" bankname="Mercado Pago " initial="18" minimum="0" />
+<account key="6" pos="6" type="3" name="Cofrinho Guardar Troco" number="004" bankname="Mercado pago" initial="8.4000000000000004" minimum="0" />
+</homebank>
